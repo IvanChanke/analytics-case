@@ -1,5 +1,6 @@
 # Results
 - [Dashboard in Data Studio](https://datastudio.google.com/reporting/f4cd6bc9-103b-4f50-b54e-e1fdd29ce501)
+- [Distribution of URLs per Number of Uses](https://datastudio.google.com/reporting/c49f12b4-7e86-4c73-9475-e58a21479c82)
 
 # Recruitment assignment for Data Scientist / Data Analyst / Analytics Engineer
 This task is intended for candidates applying for the aforementioned analytics position in the product insights team at the data science tech hub. This assignment is built around some of the technologies used in our production environment.
