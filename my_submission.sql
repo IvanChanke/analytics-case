@@ -187,10 +187,8 @@ SELECT
 FROM events_per_url
 LIMIT 1;
 
--- We can see that the distribution of URLs per number of uses is heavily skewed
--- to the right - that is, most of the URLs were opened incomparably fewer times
+-- We can see that most of the URLs were opened incomparably fewer times
 -- than a relatively small set of the ones mainly used.
-
 -- I will visualize this in Data Studio
 
 -- V. How many customers are active day by day?
